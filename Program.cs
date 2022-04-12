@@ -20,7 +20,6 @@ while (forEver)
     var time = CountDown(targetTimeInt,datNow);
     sw.WriteLine(time);
     sw.Close();
-    Log(Convert.ToString(time));
 }
 
 
